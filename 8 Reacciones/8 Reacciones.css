@@ -1,0 +1,22 @@
+p{
+    font-family: "Monserrat";
+}
+
+h2,h3{
+    font-size: 45px;
+}
+
+a{
+    color: #BE3969;
+    text-decoration: none;
+}
+
+.pequeña{
+    font-size: 12px;
+    color:#9b9b9b;
+    font-family: "Monserrat";
+}
+
+span{
+    background-color:rgb(155, 155, 155);
+}

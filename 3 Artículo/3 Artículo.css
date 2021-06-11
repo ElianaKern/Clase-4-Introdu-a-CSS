@@ -1,0 +1,26 @@
+h1{
+    font-size: 100px;
+    font-family: "Montserrat";    
+}
+
+.publicado{
+    color: #3C3C3C;
+}
+
+a{
+    color:#81d4d4;
+    text-decoration: none;
+    /* este none le saca el subrayado al link */
+}
+
+p{
+    font-family: "Raleway";
+}
+
+.italica{
+    font-style: italic;
+}
+
+.negrita{
+    font-weight: 700;
+}

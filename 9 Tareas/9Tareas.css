@@ -1,0 +1,29 @@
+h1,h2,h3{
+    font-family:"poppins";
+}
+
+h1,h2{
+    font-size: 25px;
+}
+
+/*
+h2{
+    font-size: 15px;
+    color: grey;
+}*/
+
+.pendiente{
+    background-color:rgb(0, 0, 255);
+}
+
+.hecho{
+    background-color:green;
+}
+
+.haciendo{
+    background-color: rgb(255, 128, 0);
+}
+
+.cancelada{
+    background-color:rgb(255,0,0);
+}
